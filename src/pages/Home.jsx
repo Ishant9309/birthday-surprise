@@ -68,7 +68,7 @@ function Home() {
           <h1>
             Happy Birthday
             <br />
-            <span>Beautiful Sam!</span>
+            <span>Sam!</span>
           </h1>
 
           <p className="hero-description">
